@@ -45,5 +45,8 @@ export default defineConfig({
       lazyLoading: true
     }
   },
-  head: [['link', { rel: 'icon', href: '/Design-Display/logo.svg' }]]
+  head: [
+    ['link', { rel: 'icon', href: '/Design-Display/logo.svg' }],
+    ['meta', { name: 'referrer', content: 'no-referrer' }]
+  ]
 })

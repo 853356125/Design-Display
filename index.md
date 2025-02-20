@@ -7,7 +7,7 @@ hero:
   text: "设计展示"
   tagline: 这里可以写其他内容，也可不要这块内容
   image:
-    src: https://www.helloimg.com/i/2025/02/20/67b6d4fbd31a4.png
+    src: https://gitee.com/yonghangpu/design-display/raw/master/1740044832535.png
     alt: Mr. Huang
   actions:
     - theme: brand
