@@ -5,7 +5,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '设计展示',
   description: '黄先生的设计作品blog',
-  // base: '/Design-Display',
+  base: '/Design-Display',
   lastUpdated: true,
   cleanUrls: true,
   // appearance: 'dark',
@@ -45,5 +45,5 @@ export default defineConfig({
       lazyLoading: true
     }
   },
-  head: [['link', { rel: 'icon', href: '/logo.svg' }]]
+  head: [['link', { rel: 'icon', href: '/Design-Display/logo.svg' }]]
 })
