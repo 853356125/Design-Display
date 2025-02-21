@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'zh-CN',
-  title: '设计展示',
+  title: 'Mr. Huang',
   description: '黄先生的设计作品blog',
   base: '/Design-Display',
   lastUpdated: true,
